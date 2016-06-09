@@ -1,0 +1,26 @@
+{
+    "name": "jSlider",
+    "title": "jQuery Slider",
+    "description": "jQuery plugin for create any slider.",
+    "keywords": [
+        "slider"
+    ],
+    "version": "0.1.1",
+    "author": {
+        "name": "Schturmfogel",
+        "url": "http://hateme.ru"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Schturmfogel/jSlider/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/Schturmfogel/jSlider/issues",
+    "homepage": "https://github.com/Schturmfogel/jSlider",
+    "docs": "https://github.com/Schturmfogel/jSlider",
+    "download": "http://code.jquery.com/#jSlider",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
